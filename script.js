@@ -1,6 +1,6 @@
 
     // var request = new XMLHttpRequest();
-    var request;  = new XMLHttpRequest();
+    var request;
     if(window.XMLHttpRequest){
         request = new XMLHttpRequest();
     } else {
