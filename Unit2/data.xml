@@ -1,0 +1,26 @@
+<artists> 
+    <artist>
+        <artistname>Led Zeppelin</artistname>
+        <album>Led Zeppelin</album>
+        <label>Atlantic</label>
+        <year>1969</year>
+    </artist>
+    <artist>
+        <artistname>Rolling Stones</artistname>
+        <album>Sticky Fingers</album>
+        <label>Rolling Stones</label>
+        <year>1971</year>
+    </artist>
+    <artist>
+        <artistname>The Who</artistname>
+        <album>Who's Next</album>
+        <label>Decca</label>
+        <year>1971</year>
+    </artist>
+    <artist>
+        <artistname>The Beatles</artistname>
+        <album>The Beatles - TWhite Album</album>
+        <label>Apple</label>
+        <year>1968</year>
+    </artist>
+</artists>   
