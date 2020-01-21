@@ -23,4 +23,10 @@
         <label>Apple</label>
         <year>1968</year>
     </artist>
+    <artist>
+        <artistname>The Kinks</artistname>
+        <album>The Kinks Are The Village Green Preservation Society</album>
+        <label>Reprise</label>
+        <year>1968</year>
+    </artist>
 </artists>   

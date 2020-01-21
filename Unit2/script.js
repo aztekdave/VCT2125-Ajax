@@ -7,10 +7,16 @@ if(window.XMLHttpRequest){
 request.open('GET', 'data.xml');
 
 request.onreadystatechange = function () {
-    // document.getElementById('demo').innerHTML = request.responseText;
-    if (request.status === 200 && request.readyState ===4 ) {
-        console.log(request);
-        document.writeln(request.responseText);
+    if ((request.status === 200 && request.readyState === 4)) {
+        console.log(request.responseXML.getElementsByTagName('artistname')[0].firstChild.nodeValue);
+       
+        var items = request.responseXML.getElementsByTagName('artistname');
+        var output = '<ul>';
+        for (var i = 0; i < items.length; i++) {
+            output += '<li>' + items[i].firstChild.nodeValue + '</li>';
+        }
+        output += '</ul>';
+        document.getElementById('update').innerHTML = output;
     }
 }
 request.send();
