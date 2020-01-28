@@ -1,0 +1,32 @@
+[
+    {
+        "artistname": "Led Zeppelin",
+        "album": "Led Zeppelin",
+        "label": "Atlantic",
+        "year": "1969"
+    },
+    {
+        "artistname": "Rolling Stones",
+        "album": "Sticky Fingers",
+        "label": "Rolling Stones",
+        "year": "1971"
+    },
+    {
+        "artistname": "The Who",
+        "album": "Who's Next",
+        "label": "Decca",
+        "year": "1971"
+    },
+    {
+        "artistname": "The Beatles",
+        "album": "The Beatles - White Album<",
+        "label": "Apple",
+        "year": "1968"
+    },
+    {
+        "artistname": "The Kinks",
+        "album": "The Kinks Are The Village Green Preservation Society",
+        "label": "Reprise",
+        "year": "1968"
+    }
+]
