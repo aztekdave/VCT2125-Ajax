@@ -1,0 +1,42 @@
+[
+    {
+        "artistname": "Led Zeppelin",
+        "album": "Led Zeppelin",
+        "label": "Atlantic",
+        "year": "1969",
+        "albumImg": "zeppelin_.jpg",
+        "bio": "Led Zeppelin were a British rock band that began in 1968."
+    },
+    {
+        "artistname": "Rolling Stones",
+        "album": "Sticky Fingers",
+        "label": "Rolling Stones",
+        "year": "1971",
+        "albumImg": "sticky_.jpg",
+        "bio": "The Rolling Stones are a British rock band that began in 1968."
+    },
+    {
+        "artistname": "The Who",
+        "album": "Who's Next",
+        "label": "Decca",
+        "year": "1971",
+        "albumImg": "whos_.jpg",
+        "bio": "The Who are a British rock band that began in 1962."
+    },
+    {
+        "artistname": "The Beatles",
+        "album": "The Beatles - White Album<",
+        "label": "Apple",
+        "year": "1968",
+        "albumImg": "white_.jpg",
+        "bio": "The Beatles were a British rock band that began in 1960."
+    },
+    {
+        "artistname": "The Kinks",
+        "album": "The Kinks Are The Village Green Preservation Society",
+        "label": "Reprise",
+        "year": "1968",
+        "albumImg": "kinks_.jpg",
+        "bio": "The Kinks were a British rock band that began in 1964."
+    }
+]
