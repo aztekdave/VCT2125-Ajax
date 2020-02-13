@@ -5,6 +5,7 @@
 
 (function() {
     // var url = "http://api.openweathermap.org/data/2.5/weather?q=London,England";
+    //Weather for Center City
 	var url = "http://api.openweathermap.org/data/2.5/weather?zip=55012,us";
 	var apiKey = "e7b8d08381a600c0298ec5937f2657ad"; // Replace "APIKEY" with your own API key; otherwise, your HTTP request will not work
     var httpRequest;
