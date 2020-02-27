@@ -13,6 +13,7 @@
         updateUISuccess(response);
     }).fail(function(error) {
         updateUIError();
+        // console.log(response);
     });
 
         // handle XHR success
