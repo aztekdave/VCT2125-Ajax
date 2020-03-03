@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 
-clas Message extends React.Component {
+class Message extends React.Component {
     render() {
         console.log(this.props)
         return (
